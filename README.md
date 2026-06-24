@@ -1,8 +1,8 @@
 # Payton Gagne
 
-**Software Developer | Embedded Systems | Backend Workflows | Linux Automation | Systems Engineering**
+**Software Developer | Embedded Systems | Backend APIs | Linux Automation | Systems Engineering**
 
-I build software that connects hardware, data, and cloud systems. My background includes embedded firmware workflows, REST API integration, SQL-backed applications, Linux environments, C++/Qt development, and AI code evaluation.
+I build software that connects devices, data, APIs, and backend systems. My background includes embedded firmware workflows, REST API integration, SQL-backed applications, Linux environments, C++/Qt development, and AI code evaluation.
 
 ## Technical Focus
 
@@ -10,12 +10,12 @@ I build software that connects hardware, data, and cloud systems. My background 
 - **Systems:** Linux, Ubuntu, TCP/IP, DNS, DHCP, MQTT, REST APIs
 - **Cloud and Databases:** AWS, MySQL, MariaDB, SQLite
 - **Embedded:** ESP32, Arduino, PCB testing, secure firmware workflows
-- **Tools:** Git, Qt/QML, VMware, Apache2, pytest
+- **Tools:** Git, Qt/QML, VMware, Apache2, pytest, FastAPI
 
 ## Featured Projects
 
-### Embedded Telemetry Project
-Python-based telemetry simulation project with structured device readings, validation logic, device health classification, JSONL output, SQLite persistence, tests, and architecture documentation.
+### Embedded Telemetry Monitoring System
+Python/FastAPI backend system for simulated embedded-device telemetry, validation, health classification, SQLite persistence, API endpoints, dashboard planning, tests, and engineering documentation.
 
 ### Developer Portfolio Site
 Static portfolio website for organizing software projects, technical strengths, resume highlights, and recruiter-facing project summaries.
@@ -31,10 +31,10 @@ Database-backed PHP application demonstrating server-side web development, SQL q
 
 ## Current Portfolio Goals
 
-- Rebuilding older repositories into workplace-ready projects
-- Improving READMEs, documentation, tests, and project structure
-- Adding architecture notes, roadmap files, and setup instructions
 - Building stronger proof around embedded systems, backend workflows, Linux automation, and secure software
+- Improving READMEs, documentation, tests, and project structure
+- Adding architecture notes, roadmap files, setup instructions, and CI workflows
+- Creating recruiter-friendly projects that show complete engineering workflows
 
 ## Background
 
